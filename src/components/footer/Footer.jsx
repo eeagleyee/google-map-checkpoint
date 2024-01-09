@@ -1,13 +1,13 @@
-import React from 'react'
+import React from "react";
 
-import './footer.css'
+import "./footer.css";
 
 const Footer = () => (
   <div className="footer">
     <p className="footer-copyright">
-      &copy; Sample Inc. {new Date().getFullYear()}
+      &copy; Joseph Izuu. {new Date().getFullYear()}
     </p>
   </div>
-)
+);
 
-export default Footer
+export default Footer;
